@@ -6,6 +6,8 @@ date:   2014-09-17 13:09:39
 
 ## Groups & Meetups
 - [IxDA Singapore](http://www.meetup.com/IxDA-Singapore)
+
+	Lorem ipsum dolor sit amet consectetur adi piscing dos lorem ipsum dolor sit amet consectetur adi piscing dos...
 - [Singapore Dribbble Community](http://www.meetup.com/dribbble/Singapore-SG)
 - [Singapore Lean Startup Circle](http://www.meetup.com/Singapore-Lean-Startup-Circle)
 - [DestrActions](https://www.facebook.com/groups/DActions.SG)
