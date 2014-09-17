@@ -17,6 +17,7 @@ date:   2014-09-17 13:09:39
 
 ## Jobs
 - [UX Jobs Singapore](http://www.uxjobssingapore.com)
+- [Singapore UI/UX Design Startup Jobs](https://angel.co/singapore/ui-ux-design-1/jobs)
 
 ## Formal Education
 - [Republic Poly - Diploma in Design for User Experience](http://www.rp.edu.sg/Diploma_in_Design_for_User_Experience_(R36).aspx)
@@ -61,3 +62,9 @@ date:   2014-09-17 13:09:39
 - [Survery Monkey](https://www.surveymonkey.com)
 - [Wufoo](http://www.wufoo.com)
 - [Mixpanel](https://mixpanel.com)
+- [xSort](http://xsortapp.com)
+
+## Related Books
+- [UXPin Library](http://uxpin.com/knowledge.html)
+- [UX Mastery](http://uxmastery.com/resources/books)
+
