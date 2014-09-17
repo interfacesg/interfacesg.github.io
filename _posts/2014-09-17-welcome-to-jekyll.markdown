@@ -5,13 +5,26 @@ date:   2014-09-17 13:09:39
 ---
 
 ## Groups & Meetups
-- [IxDA Singapore](http://www.meetup.com/IxDA-Singapore)
+- ![IxDA Singapore](/img/logo-ixda.png)
+	[IxDA Singapore](http://www.meetup.com/IxDA-Singapore)
 
 	Lorem ipsum dolor sit amet consectetur adi piscing dos lorem ipsum dolor sit amet consectetur adi piscing dos...
-- [Singapore Dribbble Community](http://www.meetup.com/dribbble/Singapore-SG)
-- [Singapore Lean Startup Circle](http://www.meetup.com/Singapore-Lean-Startup-Circle)
-- [DestrActions](https://www.facebook.com/groups/DActions.SG)
-- [OrangeHive](https://www.facebook.com/groups/520864127999607)
+- ![Dribbble Meetup Singapore](/img/logo-dribbble.png)
+	[Singapore Dribbble Community](http://www.meetup.com/dribbble/Singapore-SG)
+
+	Lorem ipsum dolor sit amet consectetur adi piscing dos lorem ipsum dolor sit amet consectetur adi piscing dos...
+- ![Learn Startup Singapore](/img/logo-sglean.png)
+	[Singapore Lean Startup Circle](http://www.meetup.com/Singapore-Lean-Startup-Circle)
+
+	Lorem ipsum dolor sit amet consectetur adi piscing dos lorem ipsum dolor sit amet consectetur adi piscing dos...
+- ![DestrActions Singapore](/img/logo-destractions.png)
+	[DestrActions](https://www.facebook.com/groups/DActions.SG)
+
+	Lorem ipsum dolor sit amet consectetur adi piscing dos lorem ipsum dolor sit amet consectetur adi piscing dos...
+- ![Orange Hive Singapore](/img/logo-orangehive.png)
+	[Orange Hive](https://www.facebook.com/groups/520864127999607)
+
+	Lorem ipsum dolor sit amet consectetur adi piscing dos lorem ipsum dolor sit amet consectetur adi piscing dos...
 
 ## Conferences
 - [UXSG 2014](http://www.uxsg.org)
