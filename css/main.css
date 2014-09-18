@@ -372,7 +372,7 @@ a:visited { color: #205caa; }
   .home ul li {float:left; width:45%; margin:0 10% 15px 0;}
   .home ul li:nth-child(2n) {margin-right: 0;}
   .home ul li:nth-child(3n) {margin-right: 10%;}
-
+  
   .footer-col-1 { width: 50%; }
 
   .footer-col-2 {
@@ -395,6 +395,8 @@ a:visited { color: #205caa; }
 @media screen and (max-width: 600px) {
 
   .home ul li {float:none; width:auto;}
+  .home ul li:nth-child(3n) {margin-right: 0;}
+  .home ul li:nth-child(n) {margin-right: 0;}
 
   .wrap { padding: 0 12px; }
 
