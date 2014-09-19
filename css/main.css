@@ -177,7 +177,7 @@ a:visited { color: #205caa; }
 */
 .home ul {overflow: hidden; margin-bottom: 30px; font-size:0;}
 .home ul li {display:inline-block; width:30%; margin:0 5% 60px 0; font-size: 16px; vertical-align: top; text-align: center}
-.home ul li p {font-family: "Gentium Basic", serif; font-size: 16px; color:#ccc; overflow: hidden;}
+.home ul li p {font-family: "Gentium Basic", serif; font-size: 16px; color:#999; overflow: hidden;}
 .home ul li p:first-child {overflow: visible;}
 .home ul li a {font-size: 20px; font-family: "Open Sans", sans-serif; color:#333; margin-bottom: 10px; display: block}
 .home ul li a:hover {text-decoration: none}
