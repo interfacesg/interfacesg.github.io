@@ -35,7 +35,7 @@ a:visited { color: #205caa; }
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 1170px;
+  max-width: 1140px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
@@ -53,7 +53,7 @@ a:visited { color: #205caa; }
   min-height: 56px;
   background-color: white;
 }
-.site-header .wrap {border-bottom: 1px solid #e8e8e8; padding: 0}
+.site-header .wrap {border-bottom: 1px solid #e8e8e8;}
 .site-header .logo {margin:30px 0; float:left}
 
 .site-title,
@@ -367,6 +367,9 @@ a:visited { color: #205caa; }
 /* ----------------------------------------------------------*/
 
 
+@media screen and (min-width: 1171px) {
+  .site-header .wrap {padding: 0}
+}
 @media screen and (max-width: 750px) {
 
   .home ul li {float:left; width:45%; margin:0 10% 15px 0;}
@@ -394,12 +397,12 @@ a:visited { color: #205caa; }
 
 @media screen and (max-width: 600px) {
 
-  .home ul li {float:none; width:auto;}
+  .home ul li {float:none; display: block; width:auto;}
   .home ul li:nth-child(3n) {margin-right: 0;}
   .home ul li:nth-child(n) {margin-right: 0;}
 
   .wrap { padding: 0 12px; }
-
+/*
   .site-nav {
     position: fixed;
     z-index: 10;
@@ -438,7 +441,7 @@ a:visited { color: #205caa; }
     padding: 5px 10px;
     margin: 0;
   }
-
+*/
   .post-header h1 { font-size: 36px; }
   .post-content h2 { font-size: 28px; }
   .post-content h3 { font-size: 22px; }
