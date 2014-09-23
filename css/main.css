@@ -55,7 +55,7 @@ a:visited { color: #205caa; }
 }
 .site-header .wrap {border-bottom: 1px solid #e8e8e8; overflow:hidden;}
 .site-header .logo-link {float:left;}
-.site-header .logo {margin:30px 0; display: block}
+.site-header .logo {margin:30px 0; display: block; height:21px;}
 
 .site-title,
 .site-title:hover,
