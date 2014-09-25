@@ -44,12 +44,12 @@ date:   2014-09-17 13:09:39
 ## Jobs
 - [![UX Jobs Singapore](/img/logo-uxjobssg.png)<br/>
 	UX Jobs Singapore](http://www.uxjobssingapore.com)
-	
+
 	Post your UX job here for free if you are looking to hire User Experience (UX) professionals in Singapore, whether you are a company ...
 
 - [![AngelList UI/UX Design Startup Jobs](/img/logo-angellistsg.png)<br/>
 	AngelList UI/UX Design Startup Jobs](https://angel.co/singapore/ui-ux-design-1/jobs)
-	
+
 	AngelList is a platform for startups—started by the dudes who do Venture Hacks.
 
 ## Formal Education
@@ -194,7 +194,7 @@ date:   2014-09-17 13:09:39
 - [![Treejack](/img/logo-optimalsort.png)<br/>
 	Treejack](http://www.optimalworkshop.com/treejack.htm)
 
-	Take the guesswork out of information architecture with Treejack – the usability testing tool you can use to test your IA without visual distractions. 
+	Take the guesswork out of information architecture with Treejack – the usability testing tool you can use to test your IA without visual distractions.
 
 - [![Zopim](/img/logo-zopim.png)<br/>
 	Zopim](https://www.zopim.com)
