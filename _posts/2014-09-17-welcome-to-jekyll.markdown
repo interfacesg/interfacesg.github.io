@@ -217,8 +217,8 @@ date:   2014-09-17 13:09:39
 
 	Analytics tells you what people are doing, Qualaroo tells you why. Qualaroo uncovers customer insights that lead to better business results.
 
-- [![Survery Monkey](/img/logo-surveymonkey.png)<br/>
-	Survery Monkey](https://www.surveymonkey.com)
+- [![SurveyMonkey](/img/logo-surveymonkey.png)<br/>
+	SurveyMonkey](https://www.surveymonkey.com)
 
 	SurveyMonkey is the world's most popular online survey software. We make it easier than ever to create polls and survey questionnaires for learning ...
 
