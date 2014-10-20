@@ -31,9 +31,14 @@ date:   2014-09-17 13:09:39
 	A community of friendly dreamers/doers! Cross-pollinating start-up energy and approachable, pragmatic design. Monthly workshops/discussions!
 
 - [![UXSG Meetup](/img/logo-uxsg.png)<br/>
-	UXSG Meetup](http://www.eventbrite.sg/o/uxsg-community-group-3144232632)
+	UXSG Meetup](https://www.facebook.com/groups/uxsingapore/)
 
 	 A bi-monthly event where people from different fields share about their personal design stories, journey, project case studies or best practices.
+
+- [![Front End Developers Singapore](/img/logo-feds.png)<br/>
+	Front End Developers Singapore](http://feds.strikingly.com/)
+
+	 Free and open events for front end developers in Singapore. Come to learn, meet, and share.
 
 ## Conferences
 - [![UXSG 2014](/img/logo-uxsg.png)<br/>
