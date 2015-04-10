@@ -72,6 +72,22 @@ date:   2014-09-17 13:09:39
 
 	AngelList is a platform for startups—started by the dudes who do Venture Hacks.
 
+## Resources
+- [![Open Device Lab](/img/logo-odl.png)<br/>
+	Open Device Lab Singapore](http://www.foolproof.co.uk/open-device-lab/)
+
+	A free resource for the local community to test their work on an ever-growing range of mobile devices.
+
+- [![library@orchard](/img/logo-nlb.png)<br/>
+	library@orchard](http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/337/Default.aspx?branch=library%40orchard)
+
+	Launched on 23 October 2014, by Minister for Communications and Information, Dr Yaacob Ibrahim, library@orchard is centred on lifestyle, design and the applied arts.
+
+- [![UX Books List](/img/logo-uxbooks.png)<br/>
+	UX Books List](https://docs.google.com/spreadsheets/d/1n1QMMYcR7e_dqG542DJ3Gn54iEse_ggIYaDUJMyVTn4/)
+
+	A list of popular UX books and whether you can find them in the public library. 
+
 ## Formal Education
 - [![Diploma in Design for User Experience](/img/logo-republicpoly.png)<br/>
 	Diploma in Design for User Experience](http://www.rp.edu.sg/Diploma_in_Design_for_User_Experience_(R36).aspx)
@@ -113,3 +129,10 @@ date:   2014-09-17 13:09:39
 	General Assembly User Experience Design](https://generalassemb.ly/education?where=singapore&topic=4)
 
 	Learn Technology, Design, And Business Skills From Industry Professionals In Our Global Community.
+
+## Research
+
+- [![Keio-NUS CUTE Center](/img/logo-cute.png)<br/>
+	Keio-NUS CUTE Center](http://cutecenter.nus.edu.sg)
+
+	Keio-NUS CUTE Center is set up to collaborate on fundamental research in the general area of Interactive Digital Media targeted at addressing the future of interactive, social and communication media.
