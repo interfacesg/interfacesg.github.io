@@ -81,12 +81,12 @@ date:   2014-09-17 13:09:39
 - [![library@orchard](/img/logo-nlb.png)<br/>
 	library@orchard](http://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/337/Default.aspx?branch=library%40orchard)
 
-	Launched on 23 October 2014, by Minister for Communications and Information, Dr Yaacob Ibrahim, library@orchard is centred on lifestyle, design and the applied arts.
+	library@orchard is centred on lifestyle, design and the applied arts.
 
 - [![UX Books List](/img/logo-uxbooks.png)<br/>
 	UX Books List](https://docs.google.com/spreadsheets/d/1n1QMMYcR7e_dqG542DJ3Gn54iEse_ggIYaDUJMyVTn4/)
 
-	A list of popular UX books and whether you can find them in the public library. 
+	A list of popular UX books and whether you can find them in the public library.
 
 ## Formal Education
 - [![Diploma in Design for User Experience](/img/logo-republicpoly.png)<br/>
