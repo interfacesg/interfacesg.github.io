@@ -11,9 +11,9 @@ date:   2014-09-17 13:09:39
 	The IxDa Singapore group aims to support interaction design professionals or anyone in the relevant field to find opportunities, network ...
 
 - [![Dribbble Meetup Singapore](/img/logo-dribbble.png)<br/>
-	Singapore Dribbble Community](http://www.meetup.com/dribbble/Singapore-SG)
+	Singapore Dribbble Community](https://www.facebook.com/groups/dribbble.sg/)
 
-	Dribbble meetup #5! Let's all gather to talk shop about design. Come to meet other like-minded designers to connect, share their work and enjoy some ...
+	Let's all gather to talk shop about design. Come to meet other like-minded designers to connect, share their work and enjoy some great company for the night. In other words, great excuse to get some FREE PIZZA AND BEER!
 
 - [![Learn Startup Singapore](/img/logo-sglean.png)<br/>
 	Singapore Lean Startup Circle](http://www.meetup.com/Singapore-Lean-Startup-Circle)
@@ -39,6 +39,11 @@ date:   2014-09-17 13:09:39
 	Front End Developers Singapore](http://feds.strikingly.com/)
 
 	 Free and open events for front end developers in Singapore. Come to learn, meet, and share.
+
+- [![Singapore Creative Coding](/img/logo-creativecoding.png)<br/>
+	Singapore Creative Coding](http://www.meetup.com/Singapore-Creative-Coding-Meetup/)
+
+	This group is for like-minded people who share an interest in the creative side of coding.
 
 ## Conferences
 - [![UXSG 2014](/img/logo-uxsg.png)<br/>
@@ -103,3 +108,8 @@ date:   2014-09-17 13:09:39
 	Design Singapore](http://www.designsingapore.org/Home.aspx)
 
 	The Master Class for Designers Series is an initiative of the Design Thinking and Innovation Academy (DTIA). The purpose of this series is to address ...
+
+- [![General Assembly User Experience Design](/img/logo-ga.png)<br/>
+	General Assembly User Experience Design](https://generalassemb.ly/education?where=singapore&topic=4)
+
+	Learn Technology, Design, And Business Skills From Industry Professionals In Our Global Community.
