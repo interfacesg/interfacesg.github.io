@@ -56,10 +56,15 @@ date:   2014-09-17 13:09:39
 
 	Lean UX Week is a 3-day bootcamp catering to students, leaders, and anyone building a product. That’s three days of intensive work focused on ...
 
-- [![CSSConf.Asia 2014](/img/logo-cssconf.png)<br/>
-	CSSConf.Asia 2014](http://2014.cssconf.asia)
+- [![CSSConf.Asia 2015](/img/logo-cssconf.png)<br/>
+	CSSConf.Asia 2015](http://2015.cssconf.asia/)
 
 	CSSConf is where design meets developers to inspire, educate and entertain around building the world's most engaging user interfaces.
+
+- [![JSConf.Asia 2015](/img/logo-jsconf.png)<br/>
+	JSConf.Asia 2015](http://2015.jsconf.asia/)
+
+	JSConf.Asia brings Southeast Asia's open web developer community together to exchange, to learn and entertain.
 
 ## Jobs
 - [![UX Jobs Singapore](/img/logo-uxjobssg.png)<br/>
