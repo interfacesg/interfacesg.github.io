@@ -79,7 +79,7 @@ date:   2014-09-17 13:09:39
 
 ## Resources
 - [![Open Device Lab](/img/logo-odl.png)<br/>
-	Open Device Lab Singapore](http://www.foolproof.co.uk/open-device-lab/)
+	Open Device Lab Singapore](http://www.foolproof.com.sg/open-device-lab)
 
 	A free resource for the local community to test their work on an ever-growing range of mobile devices.
 
