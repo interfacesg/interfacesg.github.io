@@ -102,17 +102,22 @@ date:   2014-09-17 13:09:39
 - [![Diploma in Experience and Product Design](/img/logo-sgpolytechnic.png)<br/>
 	Diploma in Experience and Product Design](http://goo.gl/SN6xDO)
 
-	The future is in products and services that project an 'experience' beyond what they are – one that goes beyond form and function but also delivers an  ...
+	The future is in products and services that project an "experience" beyond what they are – one that goes beyond form and function but also delivers ...
 
 - [![Diploma in Interaction Design](/img/logo-oritasinclair.png)<br/>
 	Diploma in Interaction Design](http://www.orita-sinclair.edu.sg/school/diplomas/diploma-interaction-design)
 
-	Interaction Design (or Information Design) can be described as “the art and craft of making things easier to use”*; designing the user experience of ...
+	Interaction Design (or Information Design) can be described as “the art and craft of making things easier to use” designing the user experience of ...
 
 - [![Diploma in Interaction Design](/img/logo-nyp.png)<br/>
 	Diploma in Interaction Design](http://www.nyp.edu.sg/sidm/school-of-interactive-n-digital-media)
 
 	The School of Interactive & Digital Media is centered on a dynamic mix of creativity, the applied arts and digital media technologies. It is committed to developing …
+
+- [![MSc in Information Studies](/img/logo-ntu.png)<br/>
+	MSc in Information Studies](http://www.wkwsci.ntu.edu.sg/programmes/ProspectiveStudents/Graduate/Programmes%20by%20Coursework/MSc%20in%20Information%20Studies/Pages/Home.aspx)
+
+	The Master of Science in Information Studies programme is a multidisciplinary programme combining theory and practice to address the growing need of organisations …
 
 ## Courses / Workshops
 - [![Hyper Island User Experience Lab](/img/logo-hyperisland.png)<br/>
