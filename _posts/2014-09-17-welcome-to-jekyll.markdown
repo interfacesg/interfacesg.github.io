@@ -98,6 +98,12 @@ date:   2014-09-17 13:09:39
 
 	A list of popular UX books and whether you can find them in the public library.
 
+- [![DesignSingapore](/img/logo-designsingapore.png)<br/>
+	DesignSingapore](http://www.designsingapore.org/Home.aspx)
+
+	DesignSingapore Council is the national agency for design: enabling Singapore to use design for economic growth and to make lives better. It is part of the Ministry of Communications and Information.
+
+
 ## Formal Education
 - [![Diploma in Design for User Experience](/img/logo-republicpoly.png)<br/>
 	Diploma in Design for User Experience](http://www.rp.edu.sg/Diploma_in_Design_for_User_Experience_(R36).aspx)
@@ -140,8 +146,8 @@ date:   2014-09-17 13:09:39
 
 	This course is a three-day short course focusing on the principles and techniques in designing for good user experience in software applications.
 
-- [![Design Singapore Workshops](/img/logo-designsingapore.png)<br/>
-	Design Singapore](http://www.designsingapore.org/Home.aspx)
+- [![DesignSingapore Workshops](/img/logo-designsingapore.png)<br/>
+	DesignSingapore Master Class for Designers Series](http://www.designsingapore.org/for_designers/workshops/masterclass/service-design.aspx)
 
 	The Master Class for Designers Series is an initiative of the Design Thinking and Innovation Academy (DTIA). The purpose of this series is to address ...
 
