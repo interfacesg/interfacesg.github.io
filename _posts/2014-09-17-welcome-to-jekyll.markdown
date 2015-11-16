@@ -45,6 +45,11 @@ date:   2014-09-17 13:09:39
 
 	This group is for like-minded people who share an interest in the creative side of coding.
 
+- [![Singapore HCI Announce](/img/logo-googlegroups.png)<br/>
+	Singapore HCI Announce](https://groups.google.com/forum/#!forum/singapore-hci-announce)
+
+	This is a low-volume group for announcing events and activities related to Singapore-based HCI, human factors, ergonomics, and interactive digital media art, entertainment, & design.
+
 ## Conferences
 - [![UXSG 2014](/img/logo-uxsg.png)<br/>
 	UXSG 2014](http://www.uxsg.org)
@@ -118,6 +123,11 @@ date:   2014-09-17 13:09:39
 	MSc in Information Studies](http://www.wkwsci.ntu.edu.sg/programmes/ProspectiveStudents/Graduate/Programmes%20by%20Coursework/MSc%20in%20Information%20Studies/Pages/Home.aspx)
 
 	The Master of Science in Information Studies programme is a multidisciplinary programme combining theory and practice to address the growing need of organisations …
+
+- [![MSc in Smart Product Design with Human Factors Engineering (HFE) Specialisation](/img/logo-ntu.png)<br/>
+	MSc in Smart Product Design, Human Factors Engineering (HFE)](http://www.mae.ntu.edu.sg/Programmes/ProspectiveStudents/Graduate(Coursework)/MScProgrammes/MSc(SPD)/Pages/default.aspx)
+
+	The smart product design process is concerned with the flexibility of response and adaptability of design to meet to these customer requirements and also product life cycle demands …
 
 ## Courses / Workshops
 - [![Hyper Island User Experience Lab](/img/logo-hyperisland.png)<br/>
