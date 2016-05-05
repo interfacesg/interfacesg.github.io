@@ -51,16 +51,11 @@ date:   2014-09-17 13:09:39
 	This is a low-volume group for announcing events and activities related to Singapore-based HCI, human factors, ergonomics, and interactive digital media art, entertainment, & design.
 
 ## Conferences
-- [![UXSG 2014](/img/logo-uxsg.png)<br/>
-	UXSG 2014](http://www.uxsg.org)
+- [![UXSG 2016](/img/logo-uxsg.png)<br/>
+	UXSG 2016](http://2016.uxsg.org/)
 
-	UXSG is a community initiative to create a platform that connects UX professionals across disciplines and cultures. It is a platform made for and by UX ...
-
-- [![Lean UX Week 2013](/img/logo-leanuxweek.png)<br/>
-	Lean UX Week 2013](http://leanuxweek.sg)
-
-	Lean UX Week is a 3-day bootcamp catering to students, leaders, and anyone building a product. That’s three days of intensive work focused on ...
-
+	UXSG Conference 2016. TRANSFORMATION (Society . Communities . Products & Services . The Self)
+		
 - [![CSSConf.Asia 2015](/img/logo-cssconf.png)<br/>
 	CSSConf.Asia 2015](http://2015.cssconf.asia/)
 
@@ -70,6 +65,16 @@ date:   2014-09-17 13:09:39
 	JSConf.Asia 2015](http://2015.jsconf.asia/)
 
 	JSConf.Asia brings Southeast Asia's open web developer community together to exchange, to learn and entertain.
+
+- [![UXSG 2014](/img/logo-uxsg.png)<br/>
+	UXSG 2014](http://2014.uxsg.org/)
+
+	UXSG is a community initiative to create a platform that connects UX professionals across disciplines and cultures. It is a platform made for and by UX ...
+
+- [![Lean UX Week 2013](/img/logo-leanuxweek.png)<br/>
+	Lean UX Week 2013](http://leanuxweek.sg)
+
+	Lean UX Week is a 3-day bootcamp catering to students, leaders, and anyone building a product. That’s three days of intensive work focused on ...
 
 ## Jobs
 - [![UX Jobs Singapore](/img/logo-uxjobssg.png)<br/>
@@ -129,11 +134,6 @@ date:   2014-09-17 13:09:39
 	MSc in Information Studies](http://www.wkwsci.ntu.edu.sg/programmes/ProspectiveStudents/Graduate/Programmes%20by%20Coursework/MSc%20in%20Information%20Studies/Pages/Home.aspx)
 
 	The Master of Science in Information Studies programme is a multidisciplinary programme combining theory and practice to address the growing need of organisations …
-
-- [![MSc in Smart Product Design with Human Factors Engineering (HFE) Specialisation](/img/logo-ntu.png)<br/>
-	MSc in Smart Product Design, Human Factors Engineering (HFE)](http://www.mae.ntu.edu.sg/Programmes/ProspectiveStudents/Graduate(Coursework)/MScProgrammes/MSc(SPD)/Pages/default.aspx)
-
-	The smart product design process is concerned with the flexibility of response and adaptability of design to meet to these customer requirements and also product life cycle demands …
 
 ## Courses / Workshops
 - [![Hyper Island User Experience Lab](/img/logo-hyperisland.png)<br/>
