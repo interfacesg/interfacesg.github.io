@@ -54,7 +54,7 @@ date:   2014-09-17 13:09:39
 - [![Nielsen Norman Group](/img/logo-nng.png)<br/>
 	Nielsen Norman Group Singapore UX Conference](https://www.nngroup.com/training/singapore/)
 
-	Full-day, immersive learning with the same experts who conduct NN/g research, and invited speakers from around the world. 
+	Full-day, immersive learning with the same experts who conduct NN/g research, and invited speakers from around the world.
 
 - [![UXSG 2016](/img/logo-uxsg.png)<br/>
 	UXSG 2016](http://2016.uxsg.org/)
@@ -80,17 +80,6 @@ date:   2014-09-17 13:09:39
 	Lean UX Week 2013](http://leanuxweek.sg)
 
 	Lean UX Week is a 3-day bootcamp catering to students, leaders, and anyone building a product. That’s three days of intensive work focused on ...
-
-## Jobs
-- [![UX Jobs Singapore](/img/logo-uxjobssg.png)<br/>
-	UX Jobs Singapore](http://www.uxjobssingapore.com)
-
-	Post your UX job here for free if you are looking to hire User Experience (UX) professionals in Singapore, whether you are a company ...
-
-- [![AngelList UI/UX Design Startup Jobs](/img/logo-angellistsg.png)<br/>
-	AngelList UI/UX Design Startup Jobs](https://angel.co/singapore/ui-ux-design-1/jobs)
-
-	AngelList is a platform for startups—started by the dudes who do Venture Hacks.
 
 ## Resources
 - [![Open Device Lab](/img/logo-odl.png)<br/>
@@ -166,9 +155,31 @@ date:   2014-09-17 13:09:39
 
 	Learn Technology, Design, And Business Skills From Industry Professionals In Our Global Community.
 
+- [![Human Factors International](/img/logo-hfi.png)<br/>
+	Human Factors International](http://www.humanfactors.com/training/)
+
+	(HFI) offers a suite of training courses for everything you need to know about UX design—from knowing your users to creating compelling online interactions to ...
+
+- [![Alpha Camp Product UI/UX Design](/img/logo-alphacamp.png)<br/>
+	Alpha Camp Product UI/UX Design](https://www.alphacamp.co/sg/part-time-product-design/)
+
+	12-week part-time accelerated programmes can help you launch a new career in technology. 
+
 ## Research
 
 - [![Keio-NUS CUTE Center](/img/logo-cute.png)<br/>
 	Keio-NUS CUTE Center](http://cutecenter.nus.edu.sg)
 
 	Keio-NUS CUTE Center is set up to collaborate on fundamental research in the general area of Interactive Digital Media targeted at addressing the future of interactive, social and communication media.
+
+
+## Jobs
+- [![UX Jobs Singapore](/img/logo-uxjobssg.png)<br/>
+	UX Jobs Singapore](http://www.uxjobssingapore.com)
+
+	Post your UX job here for free if you are looking to hire User Experience (UX) professionals in Singapore, whether you are a company ...
+
+- [![AngelList UI/UX Design Startup Jobs](/img/logo-angellistsg.png)<br/>
+	AngelList UI/UX Design Startup Jobs](https://angel.co/singapore/ui-ux-design-1/jobs)
+
+	AngelList is a platform for startups—started by the dudes who do Venture Hacks.
