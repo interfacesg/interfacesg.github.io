@@ -51,11 +51,16 @@ date:   2014-09-17 13:09:39
 	This is a low-volume group for announcing events and activities related to Singapore-based HCI, human factors, ergonomics, and interactive digital media art, entertainment, & design.
 
 ## Conferences
+- [![Nielsen Norman Group](/img/logo-nng.png)<br/>
+	Nielsen Norman Group Singapore UX Conference](https://www.nngroup.com/training/singapore/)
+
+	Full-day, immersive learning with the same experts who conduct NN/g research, and invited speakers from around the world. 
+
 - [![UXSG 2016](/img/logo-uxsg.png)<br/>
 	UXSG 2016](http://2016.uxsg.org/)
 
 	UXSG Conference 2016. TRANSFORMATION (Society . Communities . Products & Services . The Self)
-		
+
 - [![CSSConf.Asia 2015](/img/logo-cssconf.png)<br/>
 	CSSConf.Asia 2015](http://2015.cssconf.asia/)
 
@@ -107,6 +112,11 @@ date:   2014-09-17 13:09:39
 	DesignSingapore](http://www.designsingapore.org/Home.aspx)
 
 	DesignSingapore Council is the national agency for design: enabling Singapore to use design for economic growth and to make lives better. It is part of the Ministry of Communications and Information.
+
+- [![ProductCampSG](/img/logo-pcsg.png)<br/>
+	ProductCamp Singapore](http://www.productcampsg.com/uxui-design.html)
+
+	ProductCamp Singapore is an (un)conference for people interested in Product Management, UX/UI, Marketing & Sales, Software Development and Business topics in Singapore.
 
 
 ## Formal Education
