@@ -54,7 +54,17 @@ date:   2014-09-17 13:09:39
 - [![Nielsen Norman Group](/img/logo-nng.png)<br/>
 	Nielsen Norman Group Singapore UX Conference](https://www.nngroup.com/training/singapore/)
 
-	Full-day, immersive learning with the same experts who conduct NN/g research, and invited speakers from around the world.
+	Jan 16 – 20, 2017. Full-day, immersive learning with the same experts who conduct NN/g research, and invited speakers from around the world.
+
+- [![CSSConf.Asia 2016](/img/logo-cssconf2016.png)<br/>
+		CSSConf.Asia 2016](http://2016.cssconf.asia/)
+
+	24th Nov 2016. Bridging web design and implementation.
+
+- [![JSConf.Asia 2016](/img/logo-jsconf2016.png)<br/>
+	JSConf.Asia 2016](http://2016.jsconf.asia/)
+
+	25 + 26 Nov 2016. The conference about JavaScript, the web and mobile for Asia.
 
 - [![UXSG 2016](/img/logo-uxsg.png)<br/>
 	UXSG 2016](http://2016.uxsg.org/)
@@ -163,7 +173,7 @@ date:   2014-09-17 13:09:39
 - [![Alpha Camp Product UI/UX Design](/img/logo-alphacamp.png)<br/>
 	Alpha Camp Product UI/UX Design](https://www.alphacamp.co/sg/part-time-product-design/)
 
-	12-week part-time accelerated programmes can help you launch a new career in technology. 
+	12-week part-time accelerated programmes can help you launch a new career in technology.
 
 ## Research
 
