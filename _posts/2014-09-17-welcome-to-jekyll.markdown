@@ -175,6 +175,16 @@ date:   2014-09-17 13:09:39
 
 	12-week part-time accelerated programmes can help you launch a new career in technology.
 
+- [![Introduction to Experience Design](/img/logo-sit.png)<br/>
+	Introduction to Experience Design](https://www.singaporetech.edu.sg/sitlearn/programmes/intro-experience-design)
+
+	SIT*LEARN*'s Introduction to Experience Design (iXD) is a practice-oriented programme that surveys human-centered research and design methods.
+
+- [![Digital Experience Prototyping](/img/logo-sit.png)<br/>
+	Digital Experience Prototyping](https://www.singaporetech.edu.sg/sitlearn/programmes/digital-experience-prototyping)
+
+	SIT*LEARN*'s Digital Experience Prototyping (DX-Prototyping) is an immersive, experiential learning programme that exposes you to industry tools and best practices in innovation and digital experience design.
+
 ## Research
 
 - [![Keio-NUS CUTE Center](/img/logo-cute.png)<br/>
