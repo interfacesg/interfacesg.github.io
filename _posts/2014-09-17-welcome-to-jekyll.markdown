@@ -50,7 +50,18 @@ date:   2014-09-17 13:09:39
 
 	This is a low-volume group for announcing events and activities related to Singapore-based HCI, human factors, ergonomics, and interactive digital media art, entertainment, & design.
 
+- [![Singapore Engagement Design Meetup](/img/logo-meetup-conference.png)<br/>
+	Singapore Engagement Design Meetup](https://www.meetup.com/Singapore-Engagement-Design-Meetup/)
+
+	A group of passionate designers who want to turn products, services and companies into engaging and meaningful experiences.
+
 ## Conferences
+
+- [![Innovation By Design Conference 2017](/img/logo-meetup-conference.png)<br/>
+	Innovation By Design Conference 2017](http://innovationbydesign2017.peatix.com/)
+
+	Mar 7 - Mar 8, 2017. A feature conference of Singapore Design Week 2017.
+
 - [![Nielsen Norman Group](/img/logo-nng.png)<br/>
 	Nielsen Norman Group Singapore UX Conference](https://www.nngroup.com/training/singapore/)
 
