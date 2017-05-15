@@ -55,6 +55,16 @@ date:   2014-09-17 13:09:39
 
 	A group of passionate designers who want to turn products, services and companies into engaging and meaningful experiences.
 
+- [![Service Design Singapore](/img/logo-meetup-conference.png)<br/>
+	Service Design Singapore](https://www.meetup.com/service-design-singapore/)
+
+	Service design is about the holistic design of services that people want to use. Done correctly, it drives brand loyalty for an organisation over time. In Singapore, our service sector provides...
+
+- [![Content Strategy Singapore](/img/logo-meetup-conference.png)<br/>
+	Content Strategy Singapore](https://www.meetup.com/Content-Strategy-Singapore/)
+
+	Content is everywhere, so how should we plan, create and govern it? We're a group of content strategists, web writers and UX professionals interested in delivering...
+
 ## Conferences
 
 - [![Innovation By Design Conference 2017](/img/logo-meetup-conference.png)<br/>
